@@ -1,4 +1,4 @@
-# init.d script for [open-falcon](http://open-falcon.org/)
+# ubuntu /etc/init.d/ script for [open-falcon](http://open-falcon.org/)
 
 copy these files to /etc/init.d/
 ```
